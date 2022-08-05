@@ -1,8 +1,9 @@
 # ballot2-dapp
 
-Welcome to Hope NLC! This video supports the YouTube tutorial on the HopeNLC channel.
+Welcome to Hope NLC! 
 Thanks for joining us as we learn together!
 
+This repo supports HopeNLC tutorial on YouTube:
 https://youtu.be/wsu5Qi_Tt3k
 
 Link to Solidity Documentation:
