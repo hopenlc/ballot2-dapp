@@ -1,4 +1,4 @@
-# ballot-dapp
+# ballot2-dapp
 
 
 # Basic Sample Hardhat Project
