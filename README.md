@@ -1,5 +1,12 @@
 # ballot2-dapp
 
+Welcome to Hope NLC! This video supports the YouTube tutorial on the HopeNLC channel.
+Thanks for joining us as we learn together!
+
+https://youtu.be/wsu5Qi_Tt3k
+
+Link to Solidity Documentation:
+https://docs.soliditylang.org/en/v0.8.9/introduction-to-smart-contracts.html
 
 # Basic Sample Hardhat Project
 
