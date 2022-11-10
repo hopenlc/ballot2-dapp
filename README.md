@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # ballot2-dapp
 
 Welcome to Hope NLC! 
@@ -7,7 +8,10 @@ This repo supports HopeNLC tutorial on YouTube:
 https://youtu.be/wsu5Qi_Tt3k
 
 Link to Solidity Documentation:
+This smart contract is from https://docs.soliditylang.org/en/v0.8.17/solidity-by-example.html. This application is for educational purposes only and should not be used in production. 
+
 https://docs.soliditylang.org/en/v0.8.9/introduction-to-smart-contracts.html
+=======
 
 # Basic Sample Hardhat Project
 
