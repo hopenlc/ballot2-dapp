@@ -14,11 +14,11 @@ https://docs.soliditylang.org/en/v0.8.9/introduction-to-smart-contracts.html
 
 # How to Begin
 
+```shell
 Step 1: npx hardhat node
 Step 2: npx hardhat run scripts/deploy.js --network localhost
 Step 3: npm start
-
-=======
+```
 
 # Basic Sample Hardhat Project
 
