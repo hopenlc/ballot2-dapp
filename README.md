@@ -11,6 +11,16 @@ This smart contract is from https://docs.soliditylang.org/en/v0.8.17/solidity-by
 
 https://docs.soliditylang.org/en/v0.8.9/introduction-to-smart-contracts.html
 
+# hardhat updates
+
+This tutorial uses the hardhat-waffle plugin. Hardhat is now (10NOV2022) recommending Hardhat Chai Matchers and Hardhat Network Helpers instead.
+
+Guide:
+https://hardhat.org/hardhat-runner/docs/guides/migrating-from-hardhat-waffle
+
+How to Migrate:
+https://hardhat.org/hardhat-chai-matchers/docs/migrate-from-waffle
+
 # How to Begin
 
 ```shell
