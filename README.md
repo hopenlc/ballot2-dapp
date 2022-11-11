@@ -11,6 +11,13 @@ Link to Solidity Documentation:
 This smart contract is from https://docs.soliditylang.org/en/v0.8.17/solidity-by-example.html. This application is for educational purposes only and should not be used in production. 
 
 https://docs.soliditylang.org/en/v0.8.9/introduction-to-smart-contracts.html
+
+# How to Begin
+
+Step 1: npx hardhat node
+Step 2: npx hardhat run scripts/deploy.js --network localhost
+Step 3: npm start
+
 =======
 
 # Basic Sample Hardhat Project
