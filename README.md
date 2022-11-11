@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # ballot2-dapp
 
 Welcome to Hope NLC! 
