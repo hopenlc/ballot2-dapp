@@ -30,7 +30,6 @@ function App() {
 
   async function checkProposal(){
     if(!proposal) return
-    //const name = ethers.BigNumber.from(proposal)
     const provider = new ethers.providers.Web3Provider(window.ethereum)
     const contract = new ethers.Contract(ballotAddress, Ballot.abi, provider)
     try {
