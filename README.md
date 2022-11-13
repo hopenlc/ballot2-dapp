@@ -4,7 +4,9 @@ Welcome to Hope NLC!
 Thanks for joining us as we learn together!
 
 This repo supports HopeNLC tutorial on YouTube:
-https://youtu.be/wsu5Qi_Tt3k
+
+Part 1: https://youtu.be/wsu5Qi_Tt3k
+Part 2: coming very soon...
 
 Link to Solidity Documentation:
 This smart contract is from https://docs.soliditylang.org/en/v0.8.17/solidity-by-example.html.
