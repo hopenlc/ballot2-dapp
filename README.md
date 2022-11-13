@@ -7,9 +7,15 @@ This repo supports HopeNLC tutorial on YouTube:
 https://youtu.be/wsu5Qi_Tt3k
 
 Link to Solidity Documentation:
-This smart contract is from https://docs.soliditylang.org/en/v0.8.17/solidity-by-example.html. This application is for educational purposes only and should not be used in production. 
+This smart contract is from https://docs.soliditylang.org/en/v0.8.17/solidity-by-example.html.
+
+⚠️**This application is for educational purposes only and should not be used in production.** 
 
 https://docs.soliditylang.org/en/v0.8.9/introduction-to-smart-contracts.html
+
+# preview
+
+<img width="832" alt="Screen Shot 2022-11-13 at 8 14 32 AM" src="https://user-images.githubusercontent.com/20590197/201532487-31349dc5-e170-4199-a7cc-9fea55e06cf9.png">
 
 # hardhat updates
 
