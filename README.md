@@ -1,5 +1,7 @@
 # ballot2-dapp
 
+# This repo has been archived.
+
 Welcome to Hope NLC! 
 Thanks for joining us as we learn together!
 
